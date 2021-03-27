@@ -1,5 +1,5 @@
 <p align="center">
-![head.png](https://media.giphy.com/media/vMSXa7KFGx49aeeXhe/giphy.gif)
+  <img src="https://media.giphy.com/media/vMSXa7KFGx49aeeXhe/giphy.gif">
 </p>
   
 
