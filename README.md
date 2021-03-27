@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋</h1>
 <p align="right">
   <img src="https://media.giphy.com/media/vMSXa7KFGx49aeeXhe/giphy.gif">
 </p>
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
   <a href="https://discord.gg/eC2t6pXsJ4">Discord</a> •
