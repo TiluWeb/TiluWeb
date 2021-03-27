@@ -17,7 +17,7 @@ I am a __young developer__ based in __France__. I love computers, understanding 
 ─────────────────────────────────────
 </p>
 <p align="center">
-J'vais pas dans vos fêtes, j'reste dans ma cachette.
+J'vais pas dans vos fêtes, moi j'reste dans ma cachette.
 </p>
 
 <p align="center">
