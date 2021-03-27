@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/vMSXa7KFGx49aeeXhe/giphy.gif">
+</p>
+<p align="center">
 ─────────────────────────────────────
+</p>
 
 J'vais pas dans vos fêtes, j'reste dans ma cachette.
 </p>
