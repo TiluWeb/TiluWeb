@@ -14,6 +14,9 @@ I am a __young developer__ based in __France__. I love computers, understanding 
   <img src="https://media.giphy.com/media/vMSXa7KFGx49aeeXhe/giphy.gif">
 </p>
 <p align="center">
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+</p>
+<p align="center">
 ─────────────────────────────────────
 </p>
 <p align="center">
