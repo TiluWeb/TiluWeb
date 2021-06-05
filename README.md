@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <a href="https://discord.com/users/140917356980338688">Discord</a> •
+  <a href="https://discord.com/users/340223064388403201">Discord</a> •
   <a href="https://twitter.com/__Tilu__">Twitter</a>
 </p>
 
