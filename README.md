@@ -5,11 +5,7 @@
   <a href="https://twitter.com/__Tilu__">Twitter</a>
 </p>
 
-
 I am a __young developer__ based in __France__. I love computers, understanding how the programs we use every day are made! I'm ready to discuss and make new projects with you!
-
-* 📫 Contact me [@__Tilu__](https://twitter.com/__Tilu__)
-
 
 <h1 align="center">LANGUAGE</h1>
 
