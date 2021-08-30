@@ -3,11 +3,12 @@
 <p align="center">
   <a href="https://discord.com/users/340223064388403201">Discord</a> •
   <a href="https://twitter.com/__Tilu__">Twitter</a>
-</p>
+
 
 I am a __young developer__ based in __France__. I love computers, understanding how the programs we use every day are made! I'm ready to discuss and make new projects with you!
 
 * 📫 Contact me [@__Tilu__](https://twitter.com/__Tilu__)
+</p>
 
 <h1 align="center">LANGUAGE</h1>
 
@@ -43,12 +44,3 @@ I am a __young developer__ based in __France__. I love computers, understanding 
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-original.svg"></code>&nbsp;
   
 </p>
-
-
-<div align="center">
-    <h3> my statistics</h3>
-    <img src="https://activity-graph.herokuapp.com/graph?username=TiluWeb"><br /><br />
-    <img src="https://github-readme-stats.vercel.app/api?username=TiluWeb&show_icons=true&theme=jolly&count_private=true" /><br /><br />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TiluWeb&theme=jolly&count_private=true" /><br /><br />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiluWeb&layout=compact&theme=jolly&count_private=true" /><br />
-</div>
