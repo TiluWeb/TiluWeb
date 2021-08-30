@@ -9,20 +9,46 @@ I am a __young developer__ based in __France__. I love computers, understanding 
 
 * 📫 Contact me [@__Tilu__](https://twitter.com/__Tilu__)
 
-### My skills <br/> <br/>  ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![JavaScript](https://camo.githubusercontent.com/4fdfb0cf06c96ca8a5ab446e39e0518bb0ad5380a284c2e7bb9e3d23c34f9626/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d4646454530303f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b) ![nodejs](https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white)
-<p align="center">
-───────────────────────────────────── 🎨 <strong>Illustrations</strong> ─────────────────────────────────────
-</p>
- <p align="center">
-  <img src="https://media.giphy.com/media/vMSXa7KFGx49aeeXhe/giphy.gif">
-</p>
-<p align="center">
-─────────────────────────────────────
-</p>
-<p align="center">
-J'vais pas dans vos fêtes, moi j'reste dans ma cachette.
+<h1 align="center">LANGUAGE</h1>
+
+<p align="center"> 
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; |
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>&nbsp; |
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>&nbsp; |
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>&nbsp; |
+  <code><img height="25" src="https://github.com/devicons/devicon/tree/master/icons/php/php-plain.svg"></code>&nbsp; |
+             
 </p>
 
+
+<h1 align="center">FRAMEWORK</h1>
+
 <p align="center">
-─────────────────────────────────────
- </p>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>&nbsp; |
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>&nbsp; |
+  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></code>&nbsp; |
+</p>
+
+<h1 align="center">TOOLS</h1>
+<p align="center">
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>&nbsp; |
+    <code><img height="25" src="https://github.com/devicons/devicon/tree/master/icons/vscode/vscode-original.svg"></code>&nbsp; |
+    <code><img height="25" src="https://github.com/devicons/devicon/tree/master/icons/npm/npm-original-wordmark.svg"></code>&nbsp; |
+    <code><img height="25" src="https://github.com/devicons/devicon/tree/master/icons/yarn/yarn-original.svg"></code>&nbsp; |  
+</p>
+
+<h1 align="center">LEARN</h1>
+<p align="center">
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>&nbsp;
+    <code><img height="25" src="https://github.com/devicons/devicon/tree/master/icons/mysql/mysql-original.svg"></code>&nbsp;
+  
+</p>
+
+
+<div align="center">
+    <h3> my statistics</h3>
+    <img src="https://activity-graph.herokuapp.com/graph?username=notpunchnox"><br /><br />
+    <img src="https://github-readme-stats.vercel.app/api?username=NotPunchnox&show_icons=true&theme=jolly&count_private=true" /><br /><br />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NotPunchnox&theme=jolly&count_private=true" /><br /><br />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotPunchnox&layout=compact&theme=jolly&count_private=true" /><br />
+</div>
