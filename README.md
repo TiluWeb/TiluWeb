@@ -16,7 +16,7 @@ I am a __young developer__ based in __France__. I love computers, understanding 
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>&nbsp; |
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>&nbsp; |
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>&nbsp; |
-  <code><img height="25" src="https://github.com/devicons/devicon/tree/master/icons/php/php-plain.svg"></code>&nbsp; |
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/php/php-plain.svg"></code>&nbsp; |
              
 </p>
 
@@ -26,29 +26,29 @@ I am a __young developer__ based in __France__. I love computers, understanding 
 <p align="center">
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>&nbsp; |
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>&nbsp; |
-  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></code>&nbsp; |
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/angularjs/angularjs-original.svg"></code>&nbsp; |
 </p>
 
 <h1 align="center">TOOLS</h1>
 <p align="center">
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>&nbsp; |
-    <code><img height="25" src="https://github.com/devicons/devicon/tree/master/icons/vscode/vscode-original.svg"></code>&nbsp; |
-    <code><img height="25" src="https://github.com/devicons/devicon/tree/master/icons/npm/npm-original-wordmark.svg"></code>&nbsp; |
-    <code><img height="25" src="https://github.com/devicons/devicon/tree/master/icons/yarn/yarn-original.svg"></code>&nbsp; |  
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/vscode/vscode-original.svg"></code>&nbsp; |
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/npm/npm-original-wordmark.svg"></code>&nbsp; |
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/yarn/yarn-original.svg"></code>&nbsp; |  
 </p>
 
 <h1 align="center">LEARN</h1>
 <p align="center">
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>&nbsp;
-    <code><img height="25" src="https://github.com/devicons/devicon/tree/master/icons/mysql/mysql-original.svg"></code>&nbsp;
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-original.svg"></code>&nbsp;
   
 </p>
 
 
 <div align="center">
     <h3> my statistics</h3>
-    <img src="https://activity-graph.herokuapp.com/graph?username=notpunchnox"><br /><br />
-    <img src="https://github-readme-stats.vercel.app/api?username=NotPunchnox&show_icons=true&theme=jolly&count_private=true" /><br /><br />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NotPunchnox&theme=jolly&count_private=true" /><br /><br />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotPunchnox&layout=compact&theme=jolly&count_private=true" /><br />
+    <img src="https://activity-graph.herokuapp.com/graph?username=TiluWeb"><br /><br />
+    <img src="https://github-readme-stats.vercel.app/api?username=TiluWeb&show_icons=true&theme=jolly&count_private=true" /><br /><br />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TiluWeb&theme=jolly&count_private=true" /><br /><br />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiluWeb&layout=compact&theme=jolly&count_private=true" /><br />
 </div>
