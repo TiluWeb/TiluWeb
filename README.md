@@ -7,6 +7,10 @@
 
 I am a __young developer__ based in __France__. I love computers, understanding how the programs we use every day are made! I'm ready to discuss and make new projects with you!
 
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/340223064388403201.png">
+</p><br/><br/><br/>
+
 <h1 align="center">LANGUAGE</h1>
 
 <p align="center"> 
