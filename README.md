@@ -9,7 +9,7 @@ I am a __young developer__ based in __France__. I love computers, understanding 
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/340223064388403201.png">
-</p><br/>
+</p>
 <h1 align="center">LANGUAGE</h1>
 <p align="center"> 
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; | 
