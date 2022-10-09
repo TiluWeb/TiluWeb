@@ -40,7 +40,6 @@ I am a __young developer__ based in __Europe__. I love computers, understanding 
 <h1 align="center">LEARN</h1>
 <p align="center">
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg"></code>&nbsp; | 
-    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>&nbsp; | 
-    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/angularjs/angularjs-original.svg"></code>&nbsp; | 
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>&nbsp; |
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/arduino/arduino-original.svg"></code>&nbsp; 
 </p>
