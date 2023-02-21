@@ -35,7 +35,7 @@ I am a __young developer__ based in __Europe__. I love computers, understanding 
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/vscode/vscode-original.svg"></code>&nbsp; | 
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/npm/npm-original-wordmark.svg"></code>&nbsp; | 
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/yarn/yarn-original.svg"></code>&nbsp; | 
-    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg"></code>&nbsp;
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain.svg"></code>&nbsp;
 </p>
 
 <h1 align="center">LEARN</h1>
