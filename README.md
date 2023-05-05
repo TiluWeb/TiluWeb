@@ -26,7 +26,8 @@ I am a __young developer__ based in __Europe__. I love computers, understanding 
 
 <p align="center">
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>&nbsp; | 
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>&nbsp;
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>&nbsp; |
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg"></code>&nbsp;
 </p>
 
 <h1 align="center">TOOLS</h1>
