@@ -11,7 +11,8 @@ I am a __young developer__ based in __Europe__. I love computers, understanding 
   <a href="https://discord.com/users/340223064388403201"><img src="https://discord.c99.nl/widget/theme-4/340223064388403201.png" alt="Tilu's discord status"><a/>
 </p>
 <h1 align="center">LANGUAGE</h1>
-<p align="center"> 
+<p align="center">
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-plain.svg"></code>&nbsp; | 
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; | 
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>&nbsp; | 
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>&nbsp; | 
