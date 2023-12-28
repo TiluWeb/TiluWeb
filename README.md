@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/340223064388403201">Discord</a> •
-  <a href="https://twitter.com/__Tilu__">Twitter</a>
+  <a href="https://twitter.com/__Tilu__">X</a>
 </p>
 
 I am a __young developer__ based in __Europe__. I love computers, understanding how the programs we use every day are made! I'm ready to discuss and make new projects with you!
