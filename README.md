@@ -1,10 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
 
+<p align="center">
+  <a href="https://discord.com/users/340223064388403201">Discord</a> •
+  <a href="https://twitter.com/__Tilu__">X</a>
+</p>
+
 I am a __full stack developer__ based in __Europe__. I love computers, understanding how the programs we use every day are made! I'm ready to discuss and make new projects with you!
 
-<p align="center">
-  <a href="https://discord.com/users/340223064388403201"><img src="https://discord.c99.nl/widget/theme-4/340223064388403201.png" alt="Tilu's discord status"><a/>
-</p>
 <h1 align="center">LANGUAGE</h1>
 <p align="center">
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg"></code>&nbsp; | 
